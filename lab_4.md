@@ -2,5 +2,5 @@
 ## 1
 
 ```sql
-SELECT * FROM faktury;
+
 ```
